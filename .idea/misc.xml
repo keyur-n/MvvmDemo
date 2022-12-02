@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/keyur.n_moontechnola/Keyur/Projects/Demos/MvvmDemo/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/keyur.n_moontechnola/Keyur/Projects/Demos/MvvmDemo/app/src/main/res/layout/activity_shared_demo.xml" value="0.1707193515704154" />
+        <entry key="..\:/Users/keyur.n_moontechnola/Keyur/Projects/Demos/MvvmDemo/app/src/main/res/layout/activity_shared_second.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/keyur.n_moontechnola/Keyur/Projects/Demos/MvvmDemo/app/src/main/res/layout/fragment_shared_demo.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/keyur.n_moontechnola/Keyur/Projects/Demos/MvvmDemo/app/src/main/res/layout/fragment_shared_second.xml" value="0.35104166666666664" />
         <entry key="..\:/Users/keyur.n_moontechnola/Keyur/Projects/Demos/MvvmDemo/app/src/main/res/layout/recyclerview_item.xml" value="0.2" />
       </map>
     </option>

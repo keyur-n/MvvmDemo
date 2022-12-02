@@ -12,6 +12,7 @@ import com.example.mvvmdemo.viewmodel.MainViewModel
 import com.example.mvvmdemo.R
 import com.example.mvvmdemo.databinding.ActivityMainBinding
 import com.example.mvvmdemo.ui.adapter.MyRecyclerViewAdapter
+
 class MainActivity : AppCompatActivity() {
     val viewModel by viewModels<MainViewModel>()
     //    val viewModel2 = ViewModelProvider(this)[MainViewModel::class.java]
